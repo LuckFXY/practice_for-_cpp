@@ -1,0 +1,9 @@
+﻿  bitstack.cpp
+f:\practice\bitstack\bitstack\bitstack.cpp(14): warning C4018: '<': signed/unsigned mismatch
+f:\practice\bitstack\bitstack\bitstack.cpp(33): warning C4018: '<': signed/unsigned mismatch
+f:\practice\bitstack\bitstack\bitstack.cpp(48): warning C4018: '<': signed/unsigned mismatch
+f:\practice\bitstack\bitstack\bitstack.cpp(65): warning C4018: '<': signed/unsigned mismatch
+f:\practice\bitstack\bitstack\bitstack.cpp(121): warning C4018: '<': signed/unsigned mismatch
+f:\practice\bitstack\bitstack\bitstack.cpp(137): warning C4018: '<': signed/unsigned mismatch
+  bitstack.vcxproj -> F:\practice\bitstack\Debug\bitstack.exe
+  bitstack.vcxproj -> F:\practice\bitstack\Debug\bitstack.pdb (Partial PDB)

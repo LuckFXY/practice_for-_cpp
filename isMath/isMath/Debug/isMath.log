@@ -1,0 +1,5 @@
+﻿  Source.cpp
+f:\github\practice_for_cpp\ismath\ismath\source.cpp(44): warning C4018: '>': signed/unsigned mismatch
+f:\github\practice_for_cpp\ismath\ismath\source.cpp(54): warning C4018: '>': signed/unsigned mismatch
+  isMath.vcxproj -> F:\GitHub\practice_for_cpp\isMath\Debug\isMath.exe
+  isMath.vcxproj -> F:\GitHub\practice_for_cpp\isMath\Debug\isMath.pdb (Partial PDB)
