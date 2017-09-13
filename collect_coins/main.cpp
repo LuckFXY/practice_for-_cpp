@@ -10,7 +10,7 @@
 using namespace std;
 int collect_coins(int n){
     static set<int> myset;
-    for(int i=0;i<n;i++){
+    for(int i=0;i<n/2;i++){
         int b=n-i;
         myset.insert( i|b );
     }
